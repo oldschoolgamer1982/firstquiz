@@ -71,7 +71,7 @@ export default function Home() {
         </Widget>
         <Footer />
       </QuizContainer>
-      <GitHubCorner projectUrl="https://github.com/oldschoolgamer1982" />
+      <GitHubCorner projectUrl="https://github.com/oldschoolgamer1982/firstquiz" />
     </QuizBackground>
   );
 }
