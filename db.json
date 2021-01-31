@@ -1,0 +1,141 @@
+{
+  "bg": "/background.jpg",
+  "title": "Quiz Filmes da Alura",
+  "description": "Teste os seus conhecimentos sobre cinema em geral",
+  "questions": [
+    {
+      "image": "/question1.jpg",
+      "title": "Em que ano o filme O Artista foi premiado com o Oscar de melhor filme?",
+      "description": "Questão sobre Oscar",
+      "answer": 1,
+      "alternatives": [
+        "2010",
+        "2011",
+        "2012",
+        "2013"
+      ]
+    },
+    {
+      "image": "/question2.jpg",
+      "title": "Quais as datas de lançamento da primeira triologia Star Wars?",
+      "description": "Questão sobre Star Wars",
+      "answer": 0,
+      "alternatives": [
+        "1978 - 1980 - 1983",
+        "1979 - 1981 - 1983",
+        "1980 - 1981 - 1982",
+        "1980 - 1982 - 1984"
+      ]
+    },
+    {
+      "image": "/question3.jpg",
+      "title": "Qual desses atores apareceu em um filme da Marvel?",
+      "description": "Questão sobre atores",
+      "answer": 3,
+      "alternatives": [
+          "Jason Momoa",
+          "Jensen Ackles",
+          "Mark Wahlberg",
+          "Matt Damon"
+      ]
+    },
+    {
+      "image": "/question4.jpg",
+      "title": "Qual dessas atrizes nunca ganhou um Oscar?",
+      "description": "Questão sobre atrizes",
+      "answer": 2,
+      "alternatives": [
+          "Brie Larson",
+          "Emma Stone",
+          "Jessica Chastain",
+          "Renée Zellweger"
+      ]
+    },
+    {
+      "image": "/question5.jpg",
+      "title": "Qual desses filmes não está na lista das 10 maiores bilheterias de todos os tempos?",
+      "description": "Questão sobre bilheteria",
+      "answer": 1,
+      "alternatives": [
+          "Avatar (2009)",
+          "Star Wars: Episódio VIII (2017)",
+          "Titanic (1997)",
+          "Velozes e Furiosos 7 (2015)"
+      ]
+    },
+    {
+      "image": "/question6.jpg",
+      "title": "Qual a nacionalidade da atriz Charlize Theron?",
+      "description": "Questão sobre Charlize Theron",
+      "answer": 3,
+      "alternatives": [
+          "Australiana",
+          "Inglesa",
+          "Norte-americana",
+          "Sul-africana"
+      ]
+    },
+    {
+      "image": "/question7.jpg",
+      "title": "Qual filme não teve Tarantino como diretor?",
+      "description": "Questão sobre Quentin Tarantino",
+      "answer": 2,
+      "alternatives": [
+          "À Prova de Morte (2007)",
+          "Os Oito Odiados (2015)",
+          "Planeta Terror (2007)",
+          "Tarantino dirigiu todos esses filmes"
+      ]
+    },
+    {
+      "image": "/question8.jpg",
+      "title": "Quem foi o diretor do filme Tropa De Elite (2007)?",
+      "description": "Questão sobre o cinema nacional",
+      "answer": 2,
+      "alternatives": [
+          "Fernando Meirelles",
+          "Héctor Babenco",
+          "José Padilha",
+          "Walter Salles"
+      ]
+    },
+    {
+      "image": "/question9.jpg",
+      "title": "Qual filme é um remake de uma produção asiática?",
+      "description": "Questão sobre o remakes",
+      "answer": 1,
+      "alternatives": [
+          "Onze Homens e um Segredo (2001)",
+          "Os Infiltrados (2006)",
+          "Scarface (1983)",
+          "Sob o Domínio do Mal (2004)"
+      ]
+    },
+    {
+      "image": "/question10.jpg",
+      "title": "Qual filme não é baseado em quadrinhos?",
+      "description": "Questão sobre filmes/HQ",
+      "answer": 0,
+      "alternatives": [
+          "A Chegada (2016)",
+          "Azul é a Cor Mais Quente (2013)",
+          "Dose Dupla (2013)",
+          "Estrada para Perdição (2002)"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#DEB887",
+      "secondary": "#B8860B",
+      "mainBg": "#000000",
+      "contrastText": "#FFFFFF",
+      "wrong": "#B22222",
+      "success": "#2E8B57"
+    },
+    "borderRadius": "4px"
+  }
+}
