@@ -26,6 +26,18 @@
     "eslint-plugin-jsx-a11y": "^6.4.1",
     "eslint-plugin-react": "^7.22.0",
     "eslint-plugin-react-hooks": "^4.2.0"
+  }, 
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oldschoolgamer1982/firstquiz.git"
   },
-  "license": "MIT"
+  "keywords": [
+    "React",
+    "Next"
+  ],
+  "bugs": {
+    "url": "https://github.com/oldschoolgamer1982/firstquiz/issues"
+  },
+  "homepage": "https://firstquiz-or2y09qpm.vercel.app/"
 }
